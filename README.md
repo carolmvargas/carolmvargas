@@ -1,7 +1,7 @@
 <h1>Oi Pessoal / Hallo Leute! <br>
   Eu sou a / Ich bin die <a  href="https://github.com/carolmvargas/">Carol Vargas </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/caroline-mello-vargas-794b6578/)
+[![linkedin badge](https://img.shields.io/badge/Caroline Mello Vargas-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/caroline-mello-vargas-794b6578/)
 [![Gmail Badge](https://img.shields.io/badge/carolmvargas0@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:carolmvargas0@gmail.com)
 
 Eu estou estudando/ich lerne "Web Development"
