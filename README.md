@@ -1,9 +1,10 @@
-<h1>Oi Pessoal/Hallo Leute!, Eu sou a/Ich bin die <a  href="https://github.com/carolmvargas/">Carol Vargas </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Oi Pessoal / Hallo Leute! <br>
+  Eu sou a / Ich bin die <a  href="https://github.com/carolmvargas/">Carol Vargas </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/carolmvargas)
 [![Gmail Badge](https://img.shields.io/badge/carolmvargas0@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:carolmvargas0@gmail.com)
 
-Eu estou studando/ich lerne "Web Development"
+Eu estou estudando/ich lerne "Web Development"
 
 <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
