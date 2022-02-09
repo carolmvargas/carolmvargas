@@ -9,7 +9,7 @@
 
 * I'm studing Web Development
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -19,14 +19,16 @@
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left"> 
+  </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
    </a> 
+     <a href="#" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=react&layout=compact)](https://github.com/carolmvargas/github-readme-stats)
