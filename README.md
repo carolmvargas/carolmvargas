@@ -7,7 +7,7 @@
 
 <img align='right' src="carolcover.png" width="323" height="456">
 
-* I'm studing "Web Development"
+* I'm studing Web Development
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
