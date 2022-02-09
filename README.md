@@ -17,14 +17,12 @@ Eu estou estudando/ich lerne "Web Development"
 <h3 align="left">Tools:</h3>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 
-Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 <br>
 <br>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=dark)](https://github.com/carolmvargas/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Obrigada+pela+Visita!!&center=true&color="FF0000")](https://github.com/carolmvargas)
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vielen+Dank+für+den+Besuch!!&center=true&color="FF0000")](https://github.com/carolmvargas)
 
