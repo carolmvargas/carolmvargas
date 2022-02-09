@@ -11,7 +11,7 @@
 
 * Eu estou estudando/ich lerne "Web Development"
 
-<img align='right' src="carolcover.png" width="250" height="210">
+<img align='right' src="carolcover.png" width="323" height="456">
 <br>
 
 <h3 align="left">Languages:</h3>
