@@ -6,7 +6,7 @@
 
 <img align='right' src="carolcover.png" width="323" height="456">
 
-* 💻 I'm studing **Full Stack Web Development Course (DCI) in Germany**
+* 💻 I'm studing **Full Stack Web Development Course (DCI)** in Germany
 * ❤ I'm from Brazil
 * 🤔 My interest lies in **Front-End**
 
