@@ -40,3 +40,8 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vielen+Dank+für+den+Besuch!!&center=true&color="#c6538c")](https://github.com/carolmvargas)
 
+
+Credit: [carolmvargas](https://github.com/carolmvargas)
+
+Last Edited on: 09/02/2022
+
