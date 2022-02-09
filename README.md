@@ -29,11 +29,7 @@
    </a> 
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=react&layout=compact)](https://github.com/carolmvargas/github-readme-stats)
-
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvargas&theme=react&layout=compact" />
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+Visiting!!&center=true&color="#c6538c")](https://github.com/carolmvargas)
 <br>
