@@ -6,7 +6,9 @@
 
 <img align='right' src="carolcover.png" width="323" height="456">
 
-* I'm studing Web Development
+* I'm studing Full Stack Web Development Course (DCI) in Germany
+* I'm from Brazil
+* 🤔 My interest lies in Front-End
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,7 +32,7 @@
    </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=react&layout=compact)](https://github.com/carolmvargas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=radical&layout=compact)](https://github.com/carolmvargas/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+Visiting!!&center=true&color="#c6538c")](https://github.com/carolmvargas)
 <br>
