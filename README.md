@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/carolmvargas0@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:carolmvargas0@gmail.com)
 
 
-![](fotobeispiel.png)  
+![](carolcover.png)  
 
 * Eu estou estudando/ich lerne "Web Development"
 
