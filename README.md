@@ -8,11 +8,10 @@ Eu estou estudando/ich lerne "Web Development"
 
 <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
-
 <br>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+<p align="left"> 
 
 <h3 align="left">Tools:</h3>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
@@ -23,6 +22,5 @@ Eu estou estudando/ich lerne "Web Development"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=dark)](https://github.com/carolmvargas/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Obrigada+pela+Visita!!&center=true&color="FF0000")](https://github.com/carolmvargas)
-<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vielen+Dank+für+den+Besuch!!&center=true&color="FF0000")](https://github.com/carolmvargas)
 
