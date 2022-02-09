@@ -18,7 +18,7 @@ Eu estou estudando/ich lerne "Web Development"
 
 <br>
 <br>
-<img src="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">
+<img src="https://icons8.com/illustrations/illustration/casual-life-3d-girl-sitting-on-stool-with-laptop">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=dark)](https://github.com/carolmvargas/github-readme-stats)
 
