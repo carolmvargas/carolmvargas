@@ -7,9 +7,11 @@
 
 ![](carolcover.png)  
 
+
+
 * Eu estou estudando/ich lerne "Web Development"
 
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
+<img align='right' src="carolcover.png" width="250" height="210">
 <br>
 
 <h3 align="left">Languages:</h3>
