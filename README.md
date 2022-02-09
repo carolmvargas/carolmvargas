@@ -11,9 +11,13 @@ Eu estou estudando/ich lerne "Web Development"
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
+<h3 align="left">Tools:</h3>
+<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
+
+Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 <br>
 <br>
 
@@ -22,4 +26,5 @@ Eu estou estudando/ich lerne "Web Development"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=dark)](https://github.com/carolmvargas/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Obrigada+pela+Visita!!&center=true&color="FF0000")](https://github.com/carolmvargas)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vielen+Dank+für+den+Besuch!!&center=true&color="FF0000")](https://github.com/carolmvargas)
 
