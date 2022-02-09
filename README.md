@@ -29,7 +29,7 @@
   </a>
    </a>
    <a href="#" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> 
