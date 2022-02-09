@@ -22,7 +22,7 @@
 <h3 align="left">Tools:</h3>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=dark)](https://github.com/carolmvargas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolmvargas&theme=react&layout=compact)](https://github.com/carolmvargas/github-readme-stats)
 
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvargas&theme=react&layout=compact" />
 
