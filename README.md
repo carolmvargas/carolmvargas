@@ -1,14 +1,10 @@
 <h1> Hi!!! I'm Carol Vargas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br>
 
-[![linkedin badge](https://img.shields.io/badge/-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/caroline-mello-vargas-794b6578/)
 [![Gmail Badge](https://img.shields.io/badge/carolmvargas0@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:carolmvargas0@gmail.com)
-
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-mello-vargas-794b6578/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carolmvargas/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolmvargas0@gmail.com)
-  
 
 <img align='right' src="carolcover.png" width="323" height="456">
 
